@@ -1,2 +1,0 @@
-# myPortfolio
-React Portfolio
